@@ -8,7 +8,7 @@ https://www.figma.com/proto/gO3V1aUx813TJX7PDKcEs8/Untitled?t=KV6WaYBJF7nj8KLQ-0
 https://www.figma.com/proto/KPMj8V8mVb7YnkOyQmT8Yi/rev.-laptop?t=KV6WaYBJF7nj8KLQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=0-111
 
 3.This is a compact, user-friendly rating experience optimized for small screens without compromising any functionality.
-figma.com/proto/Sqysb1bwZ9gERHSqF76FFg/rev.-phone?t=KV6WaYBJF7nj8KLQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=1-124
+https://www.figma.com/proto/Sqysb1bwZ9gERHSqF76FFg/rev.-phone?t=KV6WaYBJF7nj8KLQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=1-4
 
 4.This project is a Resource Page UI/UX design, created entirely by me using Figma. The goal was to build a centralized hub where users can explore and contribute useful resources (like articles, videos, tools, templates, etc.) in a structured and accessible way. The design focuses on clarity, usability, and scalability, making it suitable for integration into larger platforms or communities.
 https://www.figma.com/proto/tFjZ1gJQXBJOwCVs0S0Omx/resources-pg-for-a-website?t=KV6WaYBJF7nj8KLQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=3-585
